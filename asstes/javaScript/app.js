@@ -58,3 +58,15 @@ database.ref().on("child_added", function (snapshot) {
 }, function (errorObject) {
     console.log("Errors handled: " + errorObject.code);
 });
+        // Your web app's Firebase configuration
+        var firebaseConfig = {
+            apiKey: "AIzaSyBG9iC02s9wOy7GCNqKi-tV-4XNOXiwO70",
+            authDomain: "fir-intro-guy.firebaseapp.com",
+            databaseURL: "https://fir-intro-guy.firebaseio.com",
+            projectId: "fir-intro-guy",
+            storageBucket: "fir-intro-guy.appspot.com",
+            messagingSenderId: "1049346683635",
+            appId: "1:1049346683635:web:a07016f5e59ba19a7bbd86"
+        };
+        // Initialize Firebase
+        firebase.initializeApp(firebaseConfig);
