@@ -1,6 +1,6 @@
 # TrainTime-Firebase
 
-Created during Week 7 of Rutgers Coding Bootcamp. Firebase Application to accept input from user to create a fictional train list and calculate the next train and minutes away.
+Created  Firebase Application to accept input from user to create a fictional train list and calculate the next train and minutes away.
 
 
 
@@ -19,7 +19,7 @@ Form to create new trains to add to the database.
 ### Prerequisites
 
 ```
-- Materialize: visit http://materializecss.com/getting-started.html for the CDN and link in html
+- Bootstrap: visit {put a bootsrapa link} for the CDN and link in html
 - jQuery: visit http://code.jquery.com/ and link in html
 - Firebase: https://firebase.google.com/
 ```
@@ -27,7 +27,7 @@ Form to create new trains to add to the database.
 ## Built With
 
 * Sublime Text - Text Editor
-* Materialize - Wireframe
+* Bootstrap - Wireframe
 
 ## Authors
 
