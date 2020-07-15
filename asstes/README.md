@@ -6,7 +6,7 @@ Created  Firebase Application to accept input from user to create a fictional tr
 
 ## Screen Shot
 List of trains saved to the Firebase Database.
-![Screen shot](/assets/Firebase.png)
+![Screen shot](..asstes\Firebase.png)
 
 
 
